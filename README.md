@@ -9,3 +9,6 @@ The main contribution may include but not limited to:
 2. spatio-temporal data mining of location-based service (Foursquare, Twitter, Google)
 3. generate application-oriented result
 4. give a good data visualization work
+
+Updates 2018.07: 
+The research efforts will focus on applying deep learning (CNN first) to predict the travel demand patterns and incoperate more datasets. 
